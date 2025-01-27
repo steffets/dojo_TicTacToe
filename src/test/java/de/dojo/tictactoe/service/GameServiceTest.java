@@ -165,5 +165,15 @@ class GameServiceTest {
         Assertions.assertThat(win).isTrue();
     }
 
+    @Test
+    void checkFieldFull() {
+
+    }
+
+    @Test
+    void checkInvalidXY() {
+
+    }
+
 
 }
